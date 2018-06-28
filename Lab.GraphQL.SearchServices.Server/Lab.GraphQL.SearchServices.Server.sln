@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.GraphQL.SearchServices.API", "Lab.GraphQL.SearchServices.API\Lab.GraphQL.SearchServices.API.csproj", "{3D79E816-D97D-4AA1-AE51-54ADAF5CAB1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.GraphQL.SearchServices.App", "Lab.GraphQL.SearchServices.App\Lab.GraphQL.SearchServices.App.csproj", "{9A541774-BFDE-48CD-9BC3-94DFB441D660}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.GraphQL.SearchServices.Data", "Lab.GraphQL.SearchServices.Data\Lab.GraphQL.SearchServices.Data.csproj", "{ED3CF7DD-6833-4DE6-B712-19B211B89DAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D79E816-D97D-4AA1-AE51-54ADAF5CAB1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D79E816-D97D-4AA1-AE51-54ADAF5CAB1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D79E816-D97D-4AA1-AE51-54ADAF5CAB1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D79E816-D97D-4AA1-AE51-54ADAF5CAB1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A541774-BFDE-48CD-9BC3-94DFB441D660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A541774-BFDE-48CD-9BC3-94DFB441D660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A541774-BFDE-48CD-9BC3-94DFB441D660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A541774-BFDE-48CD-9BC3-94DFB441D660}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED3CF7DD-6833-4DE6-B712-19B211B89DAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED3CF7DD-6833-4DE6-B712-19B211B89DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED3CF7DD-6833-4DE6-B712-19B211B89DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED3CF7DD-6833-4DE6-B712-19B211B89DAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44785730-8789-4A8E-8FEB-91518147DCAF}
+	EndGlobalSection
+EndGlobal
